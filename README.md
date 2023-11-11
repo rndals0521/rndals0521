@@ -18,5 +18,8 @@ This is storage
 <div style="display:flex">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=orange" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=blue" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=blue" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=purple" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/next.js-00000?style=flat-square&logo=next.js&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 </div>
